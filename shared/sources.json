@@ -464,6 +464,14 @@
     "interval": 1800000,
     "title": "最新"
   },
+    "chongbuluo-latest": {
+    "name": "央视新闻",
+    "column": "china",
+    "home": "https://news.cctv.com/",
+    "color": "green",
+    "interval": 1800000,
+    "title": "实时"
+  },
   "chongbuluo-hot": {
     "name": "虫部落",
     "type": "hottest",
